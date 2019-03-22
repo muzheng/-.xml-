@@ -1,0 +1,11 @@
+Z:\program\T01Research\T01Research\bin\Debug\T01Research.exe.config
+Z:\program\T01Research\T01Research\bin\Debug\T01Research.exe
+Z:\program\T01Research\T01Research\bin\Debug\T01Research.pdb
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.csprojAssemblyReference.cache
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.Form1.resources
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.Properties.Resources.resources
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.csproj.GenerateResource.cache
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.csproj.CoreCompileInputs.cache
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.exe
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.pdb
+Z:\program\T01Research\T01Research\obj\Debug\T01Research.Form2.resources
